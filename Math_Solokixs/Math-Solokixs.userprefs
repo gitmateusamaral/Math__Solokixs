@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\TimeControler.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\CubeController.cs" Line="31" Column="1" />
+      <File FileName="Assets\_Scripts\DragPanel.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\BalanceController.cs" Line="4" Column="49" />
+      <File FileName="Assets\_Scripts\Main.cs" Line="20" Column="2" />
+      <File FileName="Assets\_Scripts\CubeRotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\Round.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Scripts\TimeControler.cs" Line="30" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

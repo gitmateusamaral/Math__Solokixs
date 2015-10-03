@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\OFICINA II\Prot.v09\Assets\Resources\Scripts\CameraFollow.cs">
+    <Files>
+      <File FileName="..\OFICINA II\Prot.v09\Assets\Resources\Scripts\CameraFollow.cs" Line="22" Column="77" />
+      <File FileName="..\OFICINA II\Prot.v09\Assets\Resources\Scripts\Default.cs" Line="1" Column="1" />
+      <File FileName="..\OFICINA II\Prot.v09\Assets\Resources\Scripts\Player.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
