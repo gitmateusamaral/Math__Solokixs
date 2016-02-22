@@ -5,7 +5,7 @@ __________
 A Tool made on Unity to calculate physics using different types of materials and forms, made by students from Nave RJ for a math project.
 
 ####Team:
-**[Mateus Amaral](https://github.com/gitmateusamaral), [Yago Azedias](https://github.com/yagoazedias), [Victor Fernandes](https://github.com/victorffernandes), [Nicole Alves](https://github.com/NicoleAlves), [Fabieli Helena](https://github.com/fabielihelena) and [Mauricio Leonardo](https://github.com/mauriciolfsilva).**
+**[Mateus Amaral](https://github.com/gitmateusamaral), [Yago Azedias](https://github.com/yagoazedias), [Victor Fernandes](https://github.com/victorffernandes), [Mauricio Leonardo](https://github.com/mauriciolfsilva), [Nicole Alves](https://github.com/NicoleAlves) and [Fabieli Helena](https://github.com/fabielihelena).**
 
 ###Português:
 __________
